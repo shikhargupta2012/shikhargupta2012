@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Data Analytics
 - 🌱 I’m currently learning ... Data Analysis
 - 💞️ I’m looking to collaborate on ... new/ongoing projects
-- 📫 How to reach me ... email-shikhargupta2012@gmail.com
+- 📫 How to reach me ... shikhargupta2012@gmail.com
 
 <!---
 shikhargupta2012/shikhargupta2012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
